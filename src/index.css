@@ -58,8 +58,8 @@ button:hover  {
   background-color: lime !important;
   color: black;
 }
-button:hover {
-  border-color: #646cff;
+button:hover a {
+ color: black;
 }
 button:focus,
 button:focus-visible {
