@@ -20,6 +20,9 @@ img {
 .container-profile {
   justify-content: center;
   align-items: center;
-  padding: 35px 30px !important;
-  height: 110vh;
+  padding: 5px 30px !important;
+  height: 100h;
+}
+button {
+  margin-bottom: 8px;
 }
