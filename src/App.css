@@ -13,14 +13,14 @@
 }
 
 img {
-  height: 10rem;
+  height: 10.2rem;
   width: 10rem;
 }
 
 .container-profile {
   justify-content: center;
   align-items: center;
-  padding: 15px 30px !important;
+  padding: 25px 30px !important;
   height: 100h;
 }
 button {

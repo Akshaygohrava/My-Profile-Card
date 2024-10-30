@@ -53,6 +53,7 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
   transition: 0.5s ease-out;
+  width: 10rem;
 }
 button:hover  {
   background-color: lime !important;
