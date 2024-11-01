@@ -10,9 +10,9 @@ function App() {
         <p className='text-slate-200'>"Front-End Devloper And Designer"</p>
         <button><a href="https://github.com/Akshaygohrava/">GitHub</a></button>
         <button><a href="https://in.linkedin.com/in/akshaygohrava">LinkeDin</a></button>
-        <button><a href="">front-End Dev</a></button>
+        <button><a href="https://codepen.io/Akshaygohrava">front-End Dev</a></button>
         <button><a href="">Twitter</a></button>
-        <button><a href="">Instagram</a></button>
+        <button><a href="https://www.instagram.com/akshay_gohrava?igsh=MTg2ODQyb3JkZ3NvbA==">Instagram</a></button>
       </div>
     </>
   )
