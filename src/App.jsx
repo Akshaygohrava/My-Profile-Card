@@ -11,8 +11,8 @@ function App() {
         <button><a href="https://github.com/Akshaygohrava/">GitHub</a></button>
         <button><a href="https://in.linkedin.com/in/akshaygohrava">LinkeDin</a></button>
         <button><a href="https://codepen.io/Akshaygohrava">front-End Dev</a></button>
-        <button><a href="https://x.com/Akshay24793929">Twitter</a></button>
         <button><a href="https://www.instagram.com/akshay_gohrava?igsh=MTg2ODQyb3JkZ3NvbA==">Instagram</a></button>
+        <button><a href="https://x.com/Akshay24793929">Twitter</a></button>
       </div>
     </>
   )
